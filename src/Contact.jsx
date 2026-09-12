@@ -86,19 +86,19 @@ const Contact = () => {
                          <div className="social-icon text-md-start text-center">
                                         <h4>Follow Us :-</h4>
                       
-                                  <NavLink className="social-i">
+                                  <NavLink aria-label="Facebook Link" className="social-i">
                                   <FaFacebookF />
                                     </NavLink>
                       
-                                    <NavLink className="social-i">
+                                    <NavLink aria-label="Instagram Link" className="social-i">
                                   <BiLogoInstagramAlt />
                                   </NavLink>
                       
-                                    <NavLink className="social-i">
+                                    <NavLink aria-label="Twitter Link" className="social-i">
                                     <FaTwitter/>
                                     </NavLink>
                       
-                                    <NavLink className="social-i">
+                                    <NavLink aria-label="Youtube Link" className="social-i">
                                     <FaYoutube/>
                                     </NavLink>
                       
