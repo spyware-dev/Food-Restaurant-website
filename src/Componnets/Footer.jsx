@@ -17,7 +17,7 @@ const Footer = () => (
         <div className="row p-5 p-md-5">
 
           <div className="col-md-4">
-            <NavLink to="/home" className="navbar-brand ms-1 ms-md-5">
+            <NavLink to="/home" aria-label="Restaurant" className="navbar-brand ms-1 ms-md-5">
               <img src="./Img/logo-res1.png" alt="" width={200} height={80} />
             </NavLink>
 
@@ -25,19 +25,19 @@ const Footer = () => (
 
             <div className="social-icon">
 
-              <NavLink className="social-i">
+              <NavLink aria-label="Facebook Link" className="social-i">
                 <FaFacebookF />
               </NavLink>
 
-              <NavLink className="social-i">
+              <NavLink aria-label="Instagram Link" className="social-i">
                 <BiLogoInstagramAlt />
               </NavLink>
 
-              <NavLink className="social-i">
+              <NavLink aria-label="Twitter Link" className="social-i">
                 <FaTwitter />
               </NavLink>
 
-              <NavLink className="social-i">
+              <NavLink aria-label="Youtube Link" className="social-i">
                 <FaYoutube />
               </NavLink>
 
@@ -97,7 +97,7 @@ const Footer = () => (
           <div className="col-md-4 mt-5 mt-md-0">
             <h3 className=''>Get in Touch</h3>
             <div className="mt-3">
-              <NavLink className="text-dark phone">
+              <NavLink aria-label="Phone Link" className="text-dark phone">
                 <FaPhoneAlt />
               </NavLink>
               <span className='ms-2 phone-num'>+91 12353 45241</span>
@@ -116,7 +116,7 @@ const Footer = () => (
               </NavLink>
             </div>
             <div className="pay mt-4">
-              <NavLink>
+              <NavLink aria-label="Pay Link">
                 <img src="./Img/pay.png" alt="" width="80%" height="" />
               </NavLink>
             </div>
